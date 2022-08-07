@@ -4,7 +4,7 @@ export const TopBar = () => {
   return (
     <div className="topbar">
       <div className="logo">
-        <img src="" alt="" />
+        <h1> hello </h1>
       </div>
       <div className="buttons">
         <a href="#" className="button">Home</a>
